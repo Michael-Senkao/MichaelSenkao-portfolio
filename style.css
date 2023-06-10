@@ -120,11 +120,9 @@ body {
     height: fit-content;
     vertical-align: middle;
     margin: 5px;
-  }
-#about-me > div > img{
     float: left;
-}
-  
+  }
+
   /* Skills */
   
   .all_skills {
